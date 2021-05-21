@@ -19,4 +19,4 @@ CRUD Operation where one can Add,Edit,Delete Employees
 
 ### Questions? 
 
-Feel free to create new issue: https://github.com/adityaxtalk/whatsapp-clone/issues
+Feel free to create new issue: https://github.com/adityaxtalk/Employee-Manager/issues
