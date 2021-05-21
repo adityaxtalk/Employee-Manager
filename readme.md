@@ -12,11 +12,15 @@ CRUD Operation where one can Add,Edit,Delete Employees
 
 ### Let Get Started
 
-    git clone https://github.com/adityaxtalk/whatsapp-clone.git
-    cd whatsapp-clone
-    npm install
-    npm start
-
+    git clone git@github.com:adityaxtalk/Employee-Manager.git
+    1. cd Backend
+        1.1 npm install
+        1.2 npm start
+    2. cd FrontEnd
+        2.1 npm install
+        2.2 ng serve
+        
+        
 ### Questions? 
 
 Feel free to create new issue: https://github.com/adityaxtalk/Employee-Manager/issues
