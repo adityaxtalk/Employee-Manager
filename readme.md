@@ -10,7 +10,7 @@ CRUD Operation where one can Add,Edit,Delete Employees
     <img src="/Images/image4.png"  />
 </p>
 
-### Let Get Started
+### Lets Get Started
 
     git clone git@github.com:adityaxtalk/Employee-Manager.git
     1. cd Backend
